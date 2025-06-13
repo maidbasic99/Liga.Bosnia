@@ -1,0 +1,218 @@
+{
+  "PlayerData": [
+    {
+      "ID": 100001,
+      "Forename": "Andrej",
+      "Surname": "Đokanović",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/705237-1683193882.jpg"
+    },
+    {
+      "ID": 100002,
+      "Forename": "Renan",
+      "Surname": "Oliveira",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/553213-1683193931.jpg"
+    },
+    {
+      "ID": 100003,
+      "Forename": "Semir",
+      "Surname": "Štilić",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/40321-1683193984.jpg"
+    },
+    {
+      "ID": 100004,
+      "Forename": "Dal Varešanović",
+      "Surname": "",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/567426-1683194037.jpg"
+    },
+    {
+      "ID": 100005,
+      "Forename": "Muhamed",
+      "Surname": "Muleka",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/850137-1683194091.jpg"
+    },
+    {
+      "ID": 100006,
+      "Forename": "Aleksandar",
+      "Surname": "Pešić",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/212479-1683194146.jpg"
+    },
+    {
+      "ID": 100007,
+      "Forename": "Edin",
+      "Surname": "Rustemović",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/289979-1683194213.jpg"
+    },
+    {
+      "ID": 100008,
+      "Forename": "Benjamin",
+      "Surname": "Tatar",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/288058-1683194267.jpg"
+    },
+    {
+      "ID": 100009,
+      "Forename": "Dino",
+      "Surname": "Sarić",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/405625-1683194320.jpg"
+    },
+    {
+      "ID": 100010,
+      "Forename": "Vladimir",
+      "Surname": "Bradonjić",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/657956-1683194374.jpg"
+    },
+    {
+      "ID": 100011,
+      "Forename": "Belmin",
+      "Surname": "Đorđević",
+      "ImageURL": "https://img.a.transfermarkt.technology/portrait/big/919735-1683194431.jpg"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 200001,
+      "Name": "FK Sarajevo",
+      "ShortName": "SAR",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/09/FK_Sarajevo_Crest.svg"
+    },
+    {
+      "ID": 200002,
+      "Name": "FK Željezničar",
+      "ShortName": "ŽEL",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/f/f6/FK_Zeljeznicar_Sarajevo_logo.svg"
+    },
+    {
+      "ID": 200003,
+      "Name": "HŠK Zrinjski",
+      "ShortName": "ZRI",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/bs/d/d1/H%C5%A0K_Zrinjski.png"
+    },
+    {
+      "ID": 200004,
+      "Name": "NK Široki Brijeg",
+      "ShortName": "ŠIR",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/9/94/NK_%C5%A0iroki_Brijeg_logo.png"
+    },
+    {
+      "ID": 200005,
+      "Name": "FK Borac Banja Luka",
+      "ShortName": "BOR",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/6/6a/FK_Borac_Banja_Luka_logo.png"
+    },
+    {
+      "ID": 200006,
+      "Name": "FK Velež Mostar",
+      "ShortName": "VEL",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7d/FK_Vele%C5%BE_Mostar_logo.png"
+    },
+    {
+      "ID": 200007,
+      "Name": "FK Tuzla City",
+      "ShortName": "TUZ",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/bs/4/47/FK_Tuzla_City.png"
+    },
+    {
+      "ID": 200008,
+      "Name": "NK GOŠK Gabela",
+      "ShortName": "GOŠ",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/bs/6/6c/NK_GO%C5%A0K_Gabela_logo.png"
+    },
+    {
+      "ID": 200009,
+      "Name": "FK Sloga Meridian",
+      "ShortName": "SLO",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/bs/b/b8/FK_Sloga_Doboj.png"
+    },
+    {
+      "ID": 200010,
+      "Name": "FK Igman Konjic",
+      "ShortName": "IGM",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/bs/f/f3/FK_Igman_Konjic_grb.png"
+    },
+    {
+      "ID": 200011,
+      "Name": "FK Zvijezda 09",
+      "ShortName": "ZV9",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e7/FK_Zvijezda_09_logo.png"
+    },
+    {
+      "ID": 200012,
+      "Name": "NK Posušje",
+      "ShortName": "POS",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/58/NK_Posusje_logo.png"
+    },
+    {
+      "ID": 200013,
+      "Name": "FK Željezničar Banja Luka",
+      "ShortName": "ŽEB",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/bs/f/f9/FK_%C5%BDeljezni%C4%8Dar_BL_logo.png"
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 300001,
+      "Name": "Premijer liga BiH",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Bosnia_and_Herzegovina.svg"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 400001,
+      "Name": "Kup BiH",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Bosnia_and_Herzegovina.svg"
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 500001,
+      "Name": "Asim Ferhatović Hase"
+    },
+    {
+      "ID": 500002,
+      "Name": "Grbavica"
+    },
+    {
+      "ID": 500003,
+      "Name": "Stadion pod Bijelim Brijegom"
+    },
+    {
+      "ID": 500004,
+      "Name": "Pecara"
+    },
+    {
+      "ID": 500005,
+      "Name": "Gradski stadion Banja Luka"
+    },
+    {
+      "ID": 500006,
+      "Name": "Stadion Rođeni"
+    },
+    {
+      "ID": 500007,
+      "Name": "Tušanj"
+    },
+    {
+      "ID": 500008,
+      "Name": "Perica-Pero Pavlović"
+    },
+    {
+      "ID": 500009,
+      "Name": "Luke Doboj"
+    },
+    {
+      "ID": 500010,
+      "Name": "Stadion Igmana"
+    },
+    {
+      "ID": 500011,
+      "Name": "Ugljevik"
+    },
+    {
+      "ID": 500012,
+      "Name": "Mokri Dolac"
+    },
+    {
+      "ID": 500013,
+      "Name": "Predgrađe"
+    }
+  ]
+}
