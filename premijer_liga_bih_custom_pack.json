@@ -1,0 +1,50 @@
+{
+    "PlayerData": [
+        {
+            "ID": 100001,
+            "Forename": "Andrej",
+            "Surname": "Đokanović",
+            "ImageURL": "https://tmssl.akamaized.net/images/foto/spieler/andrejdjokanovic.jpg"
+        },
+        {
+            "ID": 100002,
+            "Forename": "Semir",
+            "Surname": "Štilić",
+            "ImageURL": "https://tmssl.akamaized.net/images/foto/spieler/semmstilic.jpg"
+        },
+        {
+            "ID": 100003,
+            "Forename": "Renan",
+            "Surname": "Oliveira",
+            "ImageURL": "https://tmssl.akamaized.net/images/foto/spieler/renanoliveira.jpg"
+        }
+    ],
+    "ClubData": [
+        {
+            "ID": 200001,
+            "Name": "FK Sarajevo",
+            "ShortName": "SAR",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/09/FK_Sarajevo_Crest.svg"
+        }
+    ],
+    "LeagueData": [
+        {
+            "ID": 300001,
+            "Name": "Premijer liga BiH",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Bosnia_and_Herzegovina.svg"
+        }
+    ],
+    "CupData": [
+        {
+            "ID": 400001,
+            "Name": "Kup BiH",
+            "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Bosnia_and_Herzegovina.svg"
+        }
+    ],
+    "StadiumData": [
+        {
+            "ID": 500001,
+            "Name": "Asim Ferhatović Hase"
+        }
+    ]
+}
